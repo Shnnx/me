@@ -160,6 +160,7 @@ body {
     .flexbox {
         flex-direction: column-reverse;
         padding: 1px;
+        margin-bottom: 1rem;
     }
     .flexbox__content {
         width: auto;
